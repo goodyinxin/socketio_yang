@@ -297,7 +297,7 @@ public class Server {
 			}
 		}, timeDefined.getDelayTime(), timeDefined.getSpaceTime());
 		
-		// K线图（季）推送
+		// K线图（季） 推送
 		timer.schedule(new TimerTask() {
 			@Override
 			public void run() {
