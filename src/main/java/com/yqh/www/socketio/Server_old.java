@@ -31,7 +31,7 @@ import com.yqh.www.response.ResponseData;
 /** 
  * Author:杨庆辉
  * Time:2017年6月7日 上午9:47:41 
- * Desp:
+ * Desp: 配置未分离
  */
 public class Server_old {
 	
